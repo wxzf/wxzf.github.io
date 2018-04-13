@@ -1,18 +1,18 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>ping-lun-zhuan-fa</title>
+    <title>zhao-zhong-she-ping-lun-zhuan-fa</title>
     <link href="https://wxzf.github.io/feed.xml" rel="self" />
     <link href="https://wxzf.github.io" />
-    <updated>2018-04-13T21:33:24+08:00</updated>
+    <updated>2018-04-13T21:49:02+08:00</updated>
     <author>
-        <name>转发</name>
+        <name>朝中社转发</name>
     </author>
     <id>https://wxzf.github.io</id>
 
     <entry>
         <title>《劳动新闻》：实现世界自主化是时代的历史性课题</title>
         <author>
-            <name>转发</name>
+            <name>朝中社转发</name>
         </author>
         <link href="https://wxzf.github.io/lesslesslao-dong-xin-wen-greatergreater-shi-xian-shi-jie-zi-zhu-hua-shi-shi-dai-de-li-shi-xing-ke-ti.html"/>
         <id>https://wxzf.github.io/lesslesslao-dong-xin-wen-greatergreater-shi-xian-shi-jie-zi-zhu-hua-shi-shi-dai-de-li-shi-xing-ke-ti.html</id>
@@ -38,7 +38,7 @@
     <entry>
         <title>朝中社评论：必须清算“天安”号积弊</title>
         <author>
-            <name>转发</name>
+            <name>朝中社转发</name>
         </author>
         <link href="https://wxzf.github.io/zhao-zhong-she-ping-lun-bi-xu-qing-suan-tian-an-hao-ji-bi.html"/>
         <id>https://wxzf.github.io/zhao-zhong-she-ping-lun-bi-xu-qing-suan-tian-an-hao-ji-bi.html</id>
